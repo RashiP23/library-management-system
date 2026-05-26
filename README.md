@@ -21,9 +21,3 @@ uvicorn app.main:app --reload
 
 ---
 
-# 🚀 Upload to GitHub
-
-## Initialize Git
-
-```bash
-git init
